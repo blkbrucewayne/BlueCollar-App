@@ -1,8 +1,8 @@
 @import "tailwindcss";
 
 :root {
-  --background: 220 70% 50%;
-  --foreground: 0 0% 0%;
+  --background: 220 70% 10%;
+  --foreground: 0 0% 100%;
   --card: 0 0% 100%;
   --card-foreground: 222.2 84% 4.9%;
   --popover: 0 0% 100%;
